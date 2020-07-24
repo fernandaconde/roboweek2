@@ -14,6 +14,7 @@ projeto do curso de robot framework ministrado pela qaninjas.
 - selenium.
 - appium.
 - android studio.
+- postman.
 - vs code.
 
 [link do certificado.](https://github.com/fernandaconde/certificates/blob/master/Roboweek.pdf)
